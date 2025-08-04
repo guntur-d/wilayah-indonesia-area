@@ -4,7 +4,7 @@
   "description": "Indonesian administrative area data API - Serverless on Vercel",
   "main": "index.js",
   "scripts": {
-    "dev": "node dev-server.js",
+    "develop": "node dev-server.js",
     "vercel-dev": "vercel dev",
     "build": "echo 'No build process needed'",
     "start": "node dev-server.js",

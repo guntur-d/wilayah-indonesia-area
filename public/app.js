@@ -232,7 +232,7 @@ function createTableRow(item) {
                     class="text-blue-600 hover:text-blue-800 mr-3">
                 <i class="fas fa-eye"></i> View Sub-areas
             </button>
-            <button onclick="copyToClipboard('${item.fullCode || item.code}')" 
+            <button onclick="copyToClipboard(event, '${item.fullCode || item.code}')" 
                     class="text-green-600 hover:text-green-800">
                 <i class="fas fa-copy"></i> Copy Code
             </button>
@@ -297,14 +297,13 @@ async function showSubAreas(type, code, name) {
 }
 
 // Copy code to clipboard
-function copyToClipboard(text) {
+function copyToClipboard(event, text) {
     navigator.clipboard.writeText(text).then(() => {
         // Show a brief success message
         const button = event.target.closest('button');
         const originalHTML = button.innerHTML;
         button.innerHTML = '<i class="fas fa-check"></i> Copied!';
         button.className = 'text-green-600';
-        
         setTimeout(() => {
             button.innerHTML = originalHTML;
             button.className = 'text-green-600 hover:text-green-800';
