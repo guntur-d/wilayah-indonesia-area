@@ -30,26 +30,31 @@ module.exports = async function handler(req, res) {
 
     // Build query based on parameters
     let query = {};
-    
     if (type) {
       query.type = type;
     }
-
     if (provinsi_code) {
       query.provinsiCode = provinsi_code;
     }
-
     if (kabupaten_kota_code) {
       query.kabupatenKotaFullCode = kabupaten_kota_code;
     }
-
     if (kecamatan_code) {
       query.kecamatanFullCode = kecamatan_code;
     }
-
     if (search) {
-      query.name = { $regex: search, $options: 'i' };
+      // Search in multiple fields
+      const regex = { $regex: search, $options: 'i' };
+      query.$or = [
+        { name: regex },
+        { code: regex },
+        { fullCode: regex },
+        { kabupatenKotaFullCode: regex },
+        { kecamatanFullCode: regex }
+      ];
     }
+    // Debug log for query and search (pretty print)
+    console.log('Wilayah API search:', search, JSON.stringify(query, null, 2));
 
     // Build sort object
     let sortObj = {};

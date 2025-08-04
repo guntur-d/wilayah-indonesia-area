@@ -101,7 +101,6 @@ async function loadProvinces() {
     try {
         const response = await fetch(`${API_BASE}/api/provinsi`);
         const data = await response.json();
-        
         if (data.success) {
             const select = document.getElementById('province-select');
             data.data.forEach(province => {
@@ -156,7 +155,6 @@ async function performSearch() {
         showLoading(true);
         const response = await fetch(`${API_BASE}/api/wilayah?${params.toString()}`);
         const data = await response.json();
-        
         if (data.success) {
             currentData = data.data;
             totalResults = data.pagination.total;
