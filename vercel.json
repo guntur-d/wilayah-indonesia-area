@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "name": "wilayah-api",
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/public/$1"
+    }
+  ],
+  "env": {
+    "MONGODB_URI": "@mongodb_uri"
+  },
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 30
+    }
+  }
+}

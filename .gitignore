@@ -1,6 +1,1 @@
-*.py
-*.json
-private_README.md
-*.pyc
-*.txt
-# *.zip
+.vercel

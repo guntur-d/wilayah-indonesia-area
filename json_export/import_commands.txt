@@ -1,0 +1,14 @@
+# MongoDB Import Commands
+# Make sure you have mongoimport installed and your MongoDB connection is working
+
+# Import all wilayah data
+mongoimport --uri "mongodb://localhost:27017/wilayah" --collection wilayahs --file wilayah_mongoimport.jsonl
+
+# Or import to MongoDB Atlas (replace with your connection string)
+# mongoimport --uri "mongodb+srv://username:password@cluster.mongodb.net/wilayah" --collection wilayahs --file wilayah_mongoimport.jsonl
+
+# Import individual collections
+# mongoimport --uri "mongodb://localhost:27017/wilayah" --collection provinsi --file provinsi.json --jsonArray
+# mongoimport --uri "mongodb://localhost:27017/wilayah" --collection kabupaten_kota --file kabupaten_kota.json --jsonArray
+# mongoimport --uri "mongodb://localhost:27017/wilayah" --collection kecamatan --file kecamatan.json --jsonArray
+# mongoimport --uri "mongodb://localhost:27017/wilayah" --collection kelurahan_desa --file kelurahan_desa.json --jsonArray

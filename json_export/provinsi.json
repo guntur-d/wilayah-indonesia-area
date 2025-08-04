@@ -1,0 +1,306 @@
+[
+  {
+    "type": "provinsi",
+    "code": "11",
+    "fullCode": "11",
+    "name": "ACEH",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "12",
+    "fullCode": "12",
+    "name": "SUMATERA UTARA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "13",
+    "fullCode": "13",
+    "name": "SUMATERA BARAT",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "14",
+    "fullCode": "14",
+    "name": "RIAU",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "15",
+    "fullCode": "15",
+    "name": "JAMBI",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "16",
+    "fullCode": "16",
+    "name": "SUMATERA SELATAN",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "17",
+    "fullCode": "17",
+    "name": "BENGKULU",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "18",
+    "fullCode": "18",
+    "name": "LAMPUNG",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "19",
+    "fullCode": "19",
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "21",
+    "fullCode": "21",
+    "name": "KEPULAUAN RIAU",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "31",
+    "fullCode": "31",
+    "name": "DKI JAKARTA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "32",
+    "fullCode": "32",
+    "name": "JAWA BARAT",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "33",
+    "fullCode": "33",
+    "name": "JAWA TENGAH",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "34",
+    "fullCode": "34",
+    "name": "DI YOGYAKARTA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "35",
+    "fullCode": "35",
+    "name": "JAWA TIMUR",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "36",
+    "fullCode": "36",
+    "name": "BANTEN",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "51",
+    "fullCode": "51",
+    "name": "BALI",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "52",
+    "fullCode": "52",
+    "name": "NUSA TENGGARA BARAT",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "53",
+    "fullCode": "53",
+    "name": "NUSA TENGGARA TIMUR",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "61",
+    "fullCode": "61",
+    "name": "KALIMANTAN BARAT",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "62",
+    "fullCode": "62",
+    "name": "KALIMANTAN TENGAH",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "63",
+    "fullCode": "63",
+    "name": "KALIMANTAN SELATAN",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "64",
+    "fullCode": "64",
+    "name": "KALIMANTAN TIMUR",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "65",
+    "fullCode": "65",
+    "name": "KALIMANTAN UTARA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "71",
+    "fullCode": "71",
+    "name": "SULAWESI UTARA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "72",
+    "fullCode": "72",
+    "name": "SULAWESI TENGAH",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "73",
+    "fullCode": "73",
+    "name": "SULAWESI SELATAN",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "74",
+    "fullCode": "74",
+    "name": "SULAWESI TENGGARA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "75",
+    "fullCode": "75",
+    "name": "GORONTALO",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "76",
+    "fullCode": "76",
+    "name": "SULAWESI BARAT",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "81",
+    "fullCode": "81",
+    "name": "MALUKU",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "82",
+    "fullCode": "82",
+    "name": "MALUKU UTARA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "91",
+    "fullCode": "91",
+    "name": "PAPUA BARAT",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "92",
+    "fullCode": "92",
+    "name": "PAPUA BARAT DAYA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "94",
+    "fullCode": "94",
+    "name": "PAPUA",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "95",
+    "fullCode": "95",
+    "name": "PAPUA SELATAN",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "96",
+    "fullCode": "96",
+    "name": "PAPUA TENGAH",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  },
+  {
+    "type": "provinsi",
+    "code": "97",
+    "fullCode": "97",
+    "name": "PAPUA PEGUNUNGAN",
+    "createdAt": "2025-07-25T16:03:16.346Z",
+    "updatedAt": "2025-07-25T16:03:16.346Z"
+  }
+]

@@ -1,0 +1,4628 @@
+[
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "1110",
+    "name": "KAB. BIREUEN",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "1111",
+    "name": "KAB. ACEH UTARA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "1112",
+    "name": "KAB. ACEH BARAT DAYA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "1113",
+    "name": "KAB. GAYO LUES",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "1114",
+    "name": "KAB. ACEH TAMIANG",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "1115",
+    "name": "KAB. NAGAN RAYA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "1116",
+    "name": "KAB. ACEH JAYA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "1117",
+    "name": "KAB. BENER MERIAH",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "1118",
+    "name": "KAB. PIDIE JAYA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1171",
+    "name": "KOTA BANDA ACEH",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "1172",
+    "name": "KOTA SABANG",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "1173",
+    "name": "KOTA LANGSA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "1174",
+    "name": "KOTA LHOKSEUMAWE",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "1175",
+    "name": "KOTA SUBULUSSALAM",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1101",
+    "name": "KAB. SIMEULUE",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1102",
+    "name": "KAB. ACEH SINGKIL",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1103",
+    "name": "KAB. ACEH SELATAN",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1104",
+    "name": "KAB. ACEH TENGGARA",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1105",
+    "name": "KAB. ACEH TIMUR",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1106",
+    "name": "KAB. ACEH TENGAH",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1107",
+    "name": "KAB. ACEH BARAT",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1108",
+    "name": "KAB. ACEH BESAR",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1109",
+    "name": "KAB. PIDIE",
+    "provinsiCode": "11",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "1210",
+    "name": "KAB. DAIRI",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "1211",
+    "name": "KAB. KARO",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "1212",
+    "name": "KAB. DELI SERDANG",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "1213",
+    "name": "KAB. LANGKAT",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "1214",
+    "name": "KAB. NIAS SELATAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "1215",
+    "name": "KAB. HUMBANG HASUNDUTAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "1216",
+    "name": "KAB. PAKPAK BHARAT",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "1217",
+    "name": "KAB. SAMOSIR",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "1218",
+    "name": "KAB. SERDANG BEDAGAI",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "19",
+    "fullCode": "1219",
+    "name": "KAB. BATU BARA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "20",
+    "fullCode": "1220",
+    "name": "KAB. PADANG LAWAS UTARA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "21",
+    "fullCode": "1221",
+    "name": "KAB. PADANG LAWAS",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "22",
+    "fullCode": "1222",
+    "name": "KAB. LABUHANBATU SELATAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "23",
+    "fullCode": "1223",
+    "name": "KAB. LABUHANBATU UTARA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "24",
+    "fullCode": "1224",
+    "name": "KAB. NIAS UTARA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "25",
+    "fullCode": "1225",
+    "name": "KAB. NIAS BARAT",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1271",
+    "name": "KOTA SIBOLGA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "1272",
+    "name": "KOTA TANJUNG BALAI",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "1273",
+    "name": "KOTA PEMATANGSIANTAR",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "1274",
+    "name": "KOTA TEBING TINGGI",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "1275",
+    "name": "KOTA MEDAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "76",
+    "fullCode": "1276",
+    "name": "KOTA BINJAI",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "77",
+    "fullCode": "1277",
+    "name": "KOTA PADANG SIDEMPUAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "78",
+    "fullCode": "1278",
+    "name": "KOTA GUNUNGSITOLI",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1201",
+    "name": "KAB. NIAS",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1202",
+    "name": "KAB. MANDAILING NATAL",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1203",
+    "name": "KAB. TAPANULI SELATAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1204",
+    "name": "KAB. TAPANULI TENGAH",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1205",
+    "name": "KAB. TAPANULI UTARA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1206",
+    "name": "KAB. TOBA",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1207",
+    "name": "KAB. LABUHANBATU",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1208",
+    "name": "KAB. ASAHAN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1209",
+    "name": "KAB. SIMALUNGUN",
+    "provinsiCode": "12",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "1310",
+    "name": "KAB. SOLOK SELATAN",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "1311",
+    "name": "KAB. DHARMASRAYA",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "1312",
+    "name": "KAB. PASAMAN BARAT",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1371",
+    "name": "KOTA PADANG",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "1372",
+    "name": "KOTA SOLOK",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "1373",
+    "name": "KOTA SAWAHLUNTO",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "1374",
+    "name": "KOTA PADANG PANJANG",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "1375",
+    "name": "KOTA BUKITTINGGI",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "76",
+    "fullCode": "1376",
+    "name": "KOTA PAYAKUMBUH",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "77",
+    "fullCode": "1377",
+    "name": "KOTA PARIAMAN",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1301",
+    "name": "KAB. KEPULAUAN MENTAWAI",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1302",
+    "name": "KAB. PESISIR SELATAN",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1303",
+    "name": "KAB. SOLOK",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1304",
+    "name": "KAB. SIJUNJUNG",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1305",
+    "name": "KAB. TANAH DATAR",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1306",
+    "name": "KAB. PADANG PARIAMAN",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1307",
+    "name": "KAB. AGAM",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1308",
+    "name": "KAB. LIMA PULUH KOTA",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1309",
+    "name": "KAB. PASAMAN",
+    "provinsiCode": "13",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "1410",
+    "name": "KAB. KEPULAUAN MERANTI",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1471",
+    "name": "KOTA PEKANBARU",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "1473",
+    "name": "KOTA DUMAI",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1401",
+    "name": "KAB. KUANTAN SINGINGI",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1402",
+    "name": "KAB. INDRAGIRI HULU",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1403",
+    "name": "KAB. INDRAGIRI HILIR",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1404",
+    "name": "KAB. PELALAWAN",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1405",
+    "name": "KAB. SIAK",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1406",
+    "name": "KAB. KAMPAR",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1407",
+    "name": "KAB. ROKAN HULU",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1408",
+    "name": "KAB. BENGKALIS",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1409",
+    "name": "KAB. ROKAN HILIR",
+    "provinsiCode": "14",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1571",
+    "name": "KOTA JAMBI",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "1572",
+    "name": "KOTA SUNGAI PENUH",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1501",
+    "name": "KAB. KERINCI",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1502",
+    "name": "KAB. MERANGIN",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1503",
+    "name": "KAB. SAROLANGUN",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1504",
+    "name": "KAB. BATANGHARI",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1505",
+    "name": "KAB. MUARO JAMBI",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1506",
+    "name": "KAB. TANJUNG JABUNG TIMUR",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1507",
+    "name": "KAB. TANJUNG JABUNG BARAT",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1508",
+    "name": "KAB. TEBO",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1509",
+    "name": "KAB. BUNGO",
+    "provinsiCode": "15",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "1610",
+    "name": "KAB. OGAN ILIR",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "1611",
+    "name": "KAB. EMPAT LAWANG",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "1612",
+    "name": "KAB. PENUKAL ABAB LEMATANG\nILIR",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "1613",
+    "name": "KAB. MUSI RAWAS UTARA",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1671",
+    "name": "KOTA PALEMBANG",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "1672",
+    "name": "KOTA PRABUMULIH",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "1673",
+    "name": "KOTA PAGAR ALAM",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "1674",
+    "name": "KOTA LUBUK LINGGAU",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1601",
+    "name": "KAB. OGAN KOMERING ULU",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1602",
+    "name": "KAB. OGAN KOMERING ILIR",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1603",
+    "name": "KAB. MUARA ENIM",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1604",
+    "name": "KAB. LAHAT",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1605",
+    "name": "KAB. MUSI RAWAS",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1606",
+    "name": "KAB. MUSI BANYUASIN",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1607",
+    "name": "KAB. BANYUASIN",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1608",
+    "name": "KAB. OGAN KOMERING ULU\nSELATAN",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1609",
+    "name": "KAB. OGAN KOMERING ULU TIMUR",
+    "provinsiCode": "16",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1771",
+    "name": "KOTA BENGKULU",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1701",
+    "name": "KAB. BENGKULU SELATAN",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1702",
+    "name": "KAB. REJANG LEBONG",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1703",
+    "name": "KAB. BENGKULU UTARA",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1704",
+    "name": "KAB. KAUR",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1705",
+    "name": "KAB. SELUMA",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1706",
+    "name": "KAB. MUKO MUKO",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1707",
+    "name": "KAB. LEBONG",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1708",
+    "name": "KAB. KEPAHIANG",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1709",
+    "name": "KAB. BENGKULU TENGAH",
+    "provinsiCode": "17",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "1810",
+    "name": "KAB. PRINGSEWU",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "1811",
+    "name": "KAB. MESUJI",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "1812",
+    "name": "KAB. TULANG BAWANG BARAT",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "1813",
+    "name": "KAB. PESISIR BARAT",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1871",
+    "name": "KOTA BANDAR LAMPUNG",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "1872",
+    "name": "KOTA METRO",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1801",
+    "name": "KAB. LAMPUNG BARAT",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1802",
+    "name": "KAB. TANGGAMUS",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1803",
+    "name": "KAB. LAMPUNG SELATAN",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1804",
+    "name": "KAB. LAMPUNG TIMUR",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1805",
+    "name": "KAB. LAMPUNG TENGAH",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1806",
+    "name": "KAB. LAMPUNG UTARA",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "1807",
+    "name": "KAB. WAY KANAN",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "1808",
+    "name": "KAB. TULANG BAWANG",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "1809",
+    "name": "KAB. PESAWARAN",
+    "provinsiCode": "18",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "1971",
+    "name": "KOTA PANGKAL PINANG",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "1901",
+    "name": "KAB. BANGKA",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "1902",
+    "name": "KAB. BELITUNG",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "1903",
+    "name": "KAB. BANGKA BARAT",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "1904",
+    "name": "KAB. BANGKA TENGAH",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "1905",
+    "name": "KAB. BANGKA SELATAN",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "1906",
+    "name": "KAB. BELITUNG TIMUR",
+    "provinsiCode": "19",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "2171",
+    "name": "KOTA BATAM",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "2172",
+    "name": "KOTA TANJUNG PINANG",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "2101",
+    "name": "KAB. KARIMUN",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "2102",
+    "name": "KAB. BINTAN",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "2103",
+    "name": "KAB. NATUNA",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "2104",
+    "name": "KAB. LINGGA",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "2105",
+    "name": "KAB. KEPULAUAN ANAMBAS",
+    "provinsiCode": "21",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "3171",
+    "name": "KOTA ADM. JAKARTA SELATAN",
+    "provinsiCode": "31",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "3172",
+    "name": "KOTA ADM. JAKARTA TIMUR",
+    "provinsiCode": "31",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "3173",
+    "name": "KOTA ADM. JAKARTA PUSAT",
+    "provinsiCode": "31",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "3174",
+    "name": "KOTA ADM. JAKARTA BARAT",
+    "provinsiCode": "31",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "3175",
+    "name": "KOTA ADM. JAKARTA UTARA",
+    "provinsiCode": "31",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "3101",
+    "name": "KAB. ADM. KEP. SERIBU",
+    "provinsiCode": "31",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "3210",
+    "name": "KAB. MAJALENGKA",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "3211",
+    "name": "KAB. SUMEDANG",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "3212",
+    "name": "KAB. INDRAMAYU",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "3213",
+    "name": "KAB. SUBANG",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "3214",
+    "name": "KAB. PURWAKARTA",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "3215",
+    "name": "KAB. KARAWANG",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "3216",
+    "name": "KAB. BEKASI",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "3217",
+    "name": "KAB. BANDUNG BARAT",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "3218",
+    "name": "KAB. PANGANDARAN",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "3271",
+    "name": "KOTA BOGOR",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "3272",
+    "name": "KOTA SUKABUMI",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "3273",
+    "name": "KOTA BANDUNG",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "3274",
+    "name": "KOTA CIREBON",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "3275",
+    "name": "KOTA BEKASI",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "76",
+    "fullCode": "3276",
+    "name": "KOTA DEPOK",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "77",
+    "fullCode": "3277",
+    "name": "KOTA CIMAHI",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "78",
+    "fullCode": "3278",
+    "name": "KOTA TASIKMALAYA",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "79",
+    "fullCode": "3279",
+    "name": "KOTA BANJAR",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "3201",
+    "name": "KAB. BOGOR",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "3202",
+    "name": "KAB. SUKABUMI",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "3203",
+    "name": "KAB. CIANJUR",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "3204",
+    "name": "KAB. BANDUNG",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "3205",
+    "name": "KAB. GARUT",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "3206",
+    "name": "KAB. TASIKMALAYA",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "3207",
+    "name": "KAB. CIAMIS",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "3208",
+    "name": "KAB. KUNINGAN",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "3209",
+    "name": "KAB. CIREBON",
+    "provinsiCode": "32",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "3310",
+    "name": "KAB. KLATEN",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "3311",
+    "name": "KAB. SUKOHARJO",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "3312",
+    "name": "KAB. WONOGIRI",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "3313",
+    "name": "KAB. KARANGANYAR",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "3314",
+    "name": "KAB. SRAGEN",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "3315",
+    "name": "KAB. GROBOGAN",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "3316",
+    "name": "KAB. BLORA",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "3317",
+    "name": "KAB. REMBANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "3318",
+    "name": "KAB. PATI",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "19",
+    "fullCode": "3319",
+    "name": "KAB. KUDUS",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "20",
+    "fullCode": "3320",
+    "name": "KAB. JEPARA",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "21",
+    "fullCode": "3321",
+    "name": "KAB. DEMAK",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "22",
+    "fullCode": "3322",
+    "name": "KAB. SEMARANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "23",
+    "fullCode": "3323",
+    "name": "KAB. TEMANGGUNG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "24",
+    "fullCode": "3324",
+    "name": "KAB. KENDAL",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "25",
+    "fullCode": "3325",
+    "name": "KAB. BATANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "26",
+    "fullCode": "3326",
+    "name": "KAB. PEKALONGAN",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "27",
+    "fullCode": "3327",
+    "name": "KAB. PEMALANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "28",
+    "fullCode": "3328",
+    "name": "KAB. TEGAL",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "29",
+    "fullCode": "3329",
+    "name": "KAB. BREBES",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "3371",
+    "name": "KOTA MAGELANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "3372",
+    "name": "KOTA SURAKARTA",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "3373",
+    "name": "KOTA SALATIGA",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "3374",
+    "name": "KOTA SEMARANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "3375",
+    "name": "KOTA PEKALONGAN",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "76",
+    "fullCode": "3376",
+    "name": "KOTA TEGAL",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "3301",
+    "name": "KAB. CILACAP",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "3302",
+    "name": "KAB. BANYUMAS",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "3303",
+    "name": "KAB. PURBALINGGA",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "3304",
+    "name": "KAB. BANJARNEGARA",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "3305",
+    "name": "KAB. KEBUMEN",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "3306",
+    "name": "KAB. PURWOREJO",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "3307",
+    "name": "KAB. WONOSOBO",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "3308",
+    "name": "KAB. MAGELANG",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "3309",
+    "name": "KAB. BOYOLALI",
+    "provinsiCode": "33",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "3471",
+    "name": "KOTA YOGYAKARTA",
+    "provinsiCode": "34",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "3401",
+    "name": "KAB. KULON PROGO",
+    "provinsiCode": "34",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "3402",
+    "name": "KAB. BANTUL",
+    "provinsiCode": "34",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "3403",
+    "name": "KAB. GUNUNGKIDUL",
+    "provinsiCode": "34",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "3404",
+    "name": "KAB. SLEMAN",
+    "provinsiCode": "34",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "3510",
+    "name": "KAB. BANYUWANGI",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "3511",
+    "name": "KAB. BONDOWOSO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "3512",
+    "name": "KAB. SITUBONDO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "3513",
+    "name": "KAB. PROBOLINGGO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "3514",
+    "name": "KAB. PASURUAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "3515",
+    "name": "KAB. SIDOARJO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "3516",
+    "name": "KAB. MOJOKERTO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "3517",
+    "name": "KAB. JOMBANG",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "3518",
+    "name": "KAB. NGANJUK",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "19",
+    "fullCode": "3519",
+    "name": "KAB. MADIUN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "20",
+    "fullCode": "3520",
+    "name": "KAB. MAGETAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "21",
+    "fullCode": "3521",
+    "name": "KAB. NGAWI",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "22",
+    "fullCode": "3522",
+    "name": "KAB. BOJONEGORO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "23",
+    "fullCode": "3523",
+    "name": "KAB. TUBAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "24",
+    "fullCode": "3524",
+    "name": "KAB. LAMONGAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "25",
+    "fullCode": "3525",
+    "name": "KAB. GRESIK",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "26",
+    "fullCode": "3526",
+    "name": "KAB. BANGKALAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "27",
+    "fullCode": "3527",
+    "name": "KAB. SAMPANG",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "28",
+    "fullCode": "3528",
+    "name": "KAB. PAMEKASAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "29",
+    "fullCode": "3529",
+    "name": "KAB. SUMENEP",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "3571",
+    "name": "KOTA KEDIRI",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "3572",
+    "name": "KOTA BLITAR",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "3573",
+    "name": "KOTA MALANG",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "3574",
+    "name": "KOTA PROBOLINGGO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "75",
+    "fullCode": "3575",
+    "name": "KOTA PASURUAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "76",
+    "fullCode": "3576",
+    "name": "KOTA MOJOKERTO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "77",
+    "fullCode": "3577",
+    "name": "KOTA MADIUN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "78",
+    "fullCode": "3578",
+    "name": "KOTA SURABAYA",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "79",
+    "fullCode": "3579",
+    "name": "KOTA BATU",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "3501",
+    "name": "KAB. PACITAN",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "3502",
+    "name": "KAB. PONOROGO",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "3503",
+    "name": "KAB. TRENGGALEK",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "3504",
+    "name": "KAB. TULUNGAGUNG",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "3505",
+    "name": "KAB. BLITAR",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "3506",
+    "name": "KAB. KEDIRI",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "3507",
+    "name": "KAB. MALANG",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "3508",
+    "name": "KAB. LUMAJANG",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "3509",
+    "name": "KAB. JEMBER",
+    "provinsiCode": "35",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "3671",
+    "name": "KOTA TANGERANG",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "3672",
+    "name": "KOTA CILEGON",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "3673",
+    "name": "KOTA SERANG",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "3674",
+    "name": "KOTA TANGERANG SELATAN",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "3601",
+    "name": "KAB. PANDEGLANG",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "3602",
+    "name": "KAB. LEBAK",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "3603",
+    "name": "KAB. TANGERANG",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "3604",
+    "name": "KAB. SERANG",
+    "provinsiCode": "36",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "5171",
+    "name": "KOTA DENPASAR",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "5101",
+    "name": "KAB. JEMBRANA",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "5102",
+    "name": "KAB. TABANAN",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "5103",
+    "name": "KAB. BADUNG",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "5104",
+    "name": "KAB. GIANYAR",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "5105",
+    "name": "KAB. KLUNGKUNG",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "5106",
+    "name": "KAB. BANGLI",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "5107",
+    "name": "KAB. KARANGASEM",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "5108",
+    "name": "KAB. BULELENG",
+    "provinsiCode": "51",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "5271",
+    "name": "KOTA MATARAM",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "5272",
+    "name": "KOTA BIMA",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "5201",
+    "name": "KAB. LOMBOK BARAT",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "5202",
+    "name": "KAB. LOMBOK TENGAH",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "5203",
+    "name": "KAB. LOMBOK TIMUR",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "5204",
+    "name": "KAB. SUMBAWA",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "5205",
+    "name": "KAB. DOMPU",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "5206",
+    "name": "KAB. BIMA",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "5207",
+    "name": "KAB. SUMBAWA BARAT",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "5208",
+    "name": "KAB. LOMBOK UTARA",
+    "provinsiCode": "52",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "5310",
+    "name": "KAB. SIKKA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "5311",
+    "name": "KAB. ENDE",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "5312",
+    "name": "KAB. NGADA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "5313",
+    "name": "KAB. MANGGARAI",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "5314",
+    "name": "KAB. ROTE NDAO",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "5315",
+    "name": "KAB. MANGGARAI BARAT",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "5316",
+    "name": "KAB. SUMBA TENGAH",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "5317",
+    "name": "KAB. SUMBA BARAT DAYA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "5318",
+    "name": "KAB. NAGEKEO",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "19",
+    "fullCode": "5319",
+    "name": "KAB. MANGGARAI TIMUR",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "20",
+    "fullCode": "5320",
+    "name": "KAB. SABU RAIJUA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "21",
+    "fullCode": "5321",
+    "name": "KAB. MALAKA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "5371",
+    "name": "KOTA KUPANG",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "5301",
+    "name": "KAB. SUMBA BARAT",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "5302",
+    "name": "KAB. SUMBA TIMUR",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "5303",
+    "name": "KAB. KUPANG",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "5304",
+    "name": "KAB TIMOR TENGAH SELATAN",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "5305",
+    "name": "KAB. TIMOR TENGAH UTARA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "5306",
+    "name": "KAB. BELU",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "5307",
+    "name": "KAB. ALOR",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "5308",
+    "name": "KAB. LEMBATA",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "5309",
+    "name": "KAB. FLORES TIMUR",
+    "provinsiCode": "53",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "6110",
+    "name": "KAB. MELAWI",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "6111",
+    "name": "KAB. KAYONG UTARA",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "6112",
+    "name": "KAB. KUBU RAYA",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "6171",
+    "name": "KOTA PONTIANAK",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "6172",
+    "name": "KOTA SINGKAWANG",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "6101",
+    "name": "KAB. SAMBAS",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "6102",
+    "name": "KAB. BENGKAYANG",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "6103",
+    "name": "KAB. LANDAK",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "6104",
+    "name": "KAB. MEMPAWAH",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "6105",
+    "name": "KAB. SANGGAU",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "6106",
+    "name": "KAB. KETAPANG",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "6107",
+    "name": "KAB. SINTANG",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "6108",
+    "name": "KAB. KAPUAS HULU",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "6109",
+    "name": "KAB. SEKADAU",
+    "provinsiCode": "61",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "6210",
+    "name": "KAB. PULANG PISAU",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "6211",
+    "name": "KAB. GUNUNG MAS",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "6212",
+    "name": "KAB. BARITO TIMUR",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "6213",
+    "name": "KAB. MURUNG RAYA",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "6271",
+    "name": "KOTA PALANGKARAYA",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "6201",
+    "name": "KAB. KOTAWARINGIN BARAT",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "6202",
+    "name": "KAB. KOTAWARINGIN TIMUR",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "6203",
+    "name": "KAB. KAPUAS",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "6204",
+    "name": "KAB. BARITO SELATAN",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "6205",
+    "name": "KAB. BARITO UTARA",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "6206",
+    "name": "KAB. SUKAMARA",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "6207",
+    "name": "KAB. LAMANDAU",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "6208",
+    "name": "KAB. SERUYAN",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "6209",
+    "name": "KAB. KATINGAN",
+    "provinsiCode": "62",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "6310",
+    "name": "KAB. TANAH BUMBU",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "6311",
+    "name": "KAB. BALANGAN",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "6371",
+    "name": "KOTA BANJARMASIN",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "6372",
+    "name": "KOTA BANJARBARU",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "6301",
+    "name": "KAB. TANAH LAUT",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "6302",
+    "name": "KAB. KOTABARU",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "6303",
+    "name": "KAB. BANJAR",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "6304",
+    "name": "KAB. BARITO KUALA",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "6305",
+    "name": "KAB. TAPIN",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "6306",
+    "name": "KAB. HULU SUNGAI SELATAN",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "6307",
+    "name": "KAB. HULU SUNGAI TENGAH",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "6308",
+    "name": "KAB. HULU SUNGAI UTARA",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "6309",
+    "name": "KAB. TABALONG",
+    "provinsiCode": "63",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "6411",
+    "name": "KAB. MAHAKAM ULU",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "6471",
+    "name": "KOTA BALIKPAPAN",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "6472",
+    "name": "KOTA SAMARINDA",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "6474",
+    "name": "KOTA BONTANG",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "6401",
+    "name": "KAB. PASER",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "6402",
+    "name": "KAB. KUTAI BARAT",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "6403",
+    "name": "KAB. KUTAI KARTANEGARA",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "6404",
+    "name": "KAB. KUTAI TIMUR",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "6405",
+    "name": "KAB. BERAU",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "6409",
+    "name": "KAB. PENAJAM PASER UTARA",
+    "provinsiCode": "64",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "6571",
+    "name": "KOTA TARAKAN",
+    "provinsiCode": "65",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "6501",
+    "name": "KAB. MALINAU",
+    "provinsiCode": "65",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "6502",
+    "name": "KAB. BULUNGAN",
+    "provinsiCode": "65",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "6503",
+    "name": "KAB. TANA TIDUNG",
+    "provinsiCode": "65",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "6504",
+    "name": "KAB. NUNUKAN",
+    "provinsiCode": "65",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "7110",
+    "name": "KAB. BOLAANG MONGONDOW SELATAN",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "7111",
+    "name": "KAB. BOLAANG MONGONDOW TIMUR",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "7171",
+    "name": "KOTA MANADO",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "7172",
+    "name": "KOTA BITUNG",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "7173",
+    "name": "KOTA TOMOHON",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "74",
+    "fullCode": "7174",
+    "name": "KOTA KOTAMOBAGU",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "7101",
+    "name": "KAB. BOLAANG MONGONDOW",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "7102",
+    "name": "KAB. MINAHASA",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "7103",
+    "name": "KAB. KEPULAUAN SANGIHE",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "7104",
+    "name": "KAB. KEPULAUAN TALAUD",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "7105",
+    "name": "KAB. MINAHASA SELATAN",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "7106",
+    "name": "KAB. MINAHASA UTARA",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "7107",
+    "name": "KAB. BOLAANG MONGONDOW UTARA",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "7108",
+    "name": "KAB. KEP. SIAU TAGULANDANG BIARO",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "7109",
+    "name": "KAB. MINAHASA TENGGARA",
+    "provinsiCode": "71",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "7210",
+    "name": "KAB. SIGI",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "7211",
+    "name": "KAB. BANGGAI LAUT",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "7212",
+    "name": "KAB. MOROWALI UTARA",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "7271",
+    "name": "KOTA PALU",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "7201",
+    "name": "KAB. BANGGAI KEPULAUAN",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "7202",
+    "name": "KAB. BANGGAI",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "7203",
+    "name": "KAB. MOROWALI",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "7204",
+    "name": "KAB. POSO",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "7205",
+    "name": "KAB. DONGGALA",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "7206",
+    "name": "KAB. TOLI TOLI",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "7207",
+    "name": "KAB. BUOL",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "7208",
+    "name": "KAB. PARIGI MOUTONG",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "7209",
+    "name": "KAB. TOJO UNA UNA",
+    "provinsiCode": "72",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "7310",
+    "name": "KAB. BARRU",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "7311",
+    "name": "KAB. BONE",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "7312",
+    "name": "KAB. SOPPENG",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "7313",
+    "name": "KAB. WAJO",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "7314",
+    "name": "KAB. SIDENRENG RAPPANG",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "7315",
+    "name": "KAB. PINRANG",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "16",
+    "fullCode": "7316",
+    "name": "KAB. ENREKANG",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "17",
+    "fullCode": "7317",
+    "name": "KAB. LUWU",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "18",
+    "fullCode": "7318",
+    "name": "KAB. TANA TORAJA",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "22",
+    "fullCode": "7322",
+    "name": "KAB. LUWU UTARA",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "25",
+    "fullCode": "7325",
+    "name": "KAB. LUWU TIMUR",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "26",
+    "fullCode": "7326",
+    "name": "KAB. TORAJA UTARA",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "7371",
+    "name": "KOTA MAKASSAR",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "7372",
+    "name": "KOTA PAREPARE",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "73",
+    "fullCode": "7373",
+    "name": "KOTA PALOPO",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "7301",
+    "name": "KAB. KEPULAUAN SELAYAR",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "7302",
+    "name": "KAB. BULUKUMBA",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "7303",
+    "name": "KAB. BANTAENG",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "7304",
+    "name": "KAB. JENEPONTO",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "7305",
+    "name": "KAB. TAKALAR",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "7306",
+    "name": "KAB. GOWA",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "7307",
+    "name": "KAB. SINJAI",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "7308",
+    "name": "KAB. MAROS",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "7309",
+    "name": "KAB. PANGKAJENE DAN KEPULAUAN",
+    "provinsiCode": "73",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "10",
+    "fullCode": "7410",
+    "name": "KAB. KONAWE UTARA",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "7411",
+    "name": "KAB. KOLAKA TIMUR",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "7412",
+    "name": "KAB. KONAWE KEPULAUAN",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "13",
+    "fullCode": "7413",
+    "name": "KAB. MUNA BARAT",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "14",
+    "fullCode": "7414",
+    "name": "KAB. BUTON TENGAH",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "15",
+    "fullCode": "7415",
+    "name": "KAB. BUTON SELATAN",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "7471",
+    "name": "KOTA KENDARI",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "7472",
+    "name": "KOTA BAU BAU",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "7401",
+    "name": "KAB. BUTON",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "7402",
+    "name": "KAB. MUNA",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "7403",
+    "name": "KAB. KONAWE",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "7404",
+    "name": "KAB. KOLAKA",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "7405",
+    "name": "KAB. KONAWE SELATAN",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "7406",
+    "name": "KAB. BOMBANA",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "7407",
+    "name": "KAB. WAKATOBI",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "7408",
+    "name": "KAB. KOLAKA UTARA",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "7409",
+    "name": "KAB. BUTON UTARA",
+    "provinsiCode": "74",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "7571",
+    "name": "KOTA GORONTALO",
+    "provinsiCode": "75",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "7501",
+    "name": "KAB. BOALEMO",
+    "provinsiCode": "75",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "7502",
+    "name": "KAB. GORONTALO",
+    "provinsiCode": "75",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "7503",
+    "name": "KAB. POHUWATO",
+    "provinsiCode": "75",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "7504",
+    "name": "KAB. BONE BOLANGO",
+    "provinsiCode": "75",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "7505",
+    "name": "KAB. GORONTALO UTARA",
+    "provinsiCode": "75",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "7601",
+    "name": "KAB. MAJENE",
+    "provinsiCode": "76",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "7602",
+    "name": "KAB. POLEWALI MANDAR",
+    "provinsiCode": "76",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "7603",
+    "name": "KAB. MAMASA",
+    "provinsiCode": "76",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "7604",
+    "name": "KAB. MAMUJU",
+    "provinsiCode": "76",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "7605",
+    "name": "KAB. PASANGKAYU",
+    "provinsiCode": "76",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "7606",
+    "name": "KAB. MAMUJU TENGAH",
+    "provinsiCode": "76",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "8171",
+    "name": "KOTA AMBON",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "8172",
+    "name": "KOTA TUAL",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "8101",
+    "name": "KAB. KEPULAUAN TANIMBAR",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "8102",
+    "name": "KAB. MALUKU TENGGARA",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "8103",
+    "name": "KAB. MALUKU TENGAH",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "8104",
+    "name": "KAB. BURU",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "8105",
+    "name": "KAB. KEPULAUAN ARU",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "8106",
+    "name": "KAB. SERAM BAGIAN BARAT",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "8107",
+    "name": "KAB. SERAM BAGIAN TIMUR",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "8108",
+    "name": "KAB. MALUKU BARAT DAYA",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "8109",
+    "name": "KAB. BURU SELATAN",
+    "provinsiCode": "81",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "8271",
+    "name": "KOTA TERNATE",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "72",
+    "fullCode": "8272",
+    "name": "KOTA TIDORE KEPULAUAN",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "8201",
+    "name": "KAB. HALMAHERA BARAT",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "8202",
+    "name": "KAB. HALMAHERA TENGAH",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "8203",
+    "name": "KAB. KEPULAUAN SULA",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "8204",
+    "name": "KAB. HALMAHERA SELATAN",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "8205",
+    "name": "KAB. HALMAHERA UTARA",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "8206",
+    "name": "KAB. HALMAHERA TIMUR",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "8207",
+    "name": "KAB. PULAU MOROTAI",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "8208",
+    "name": "KAB. PULAU TALIABU",
+    "provinsiCode": "82",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "11",
+    "fullCode": "9111",
+    "name": "KAB. MANOKWARI SELATAN",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "12",
+    "fullCode": "9112",
+    "name": "KAB. PEGUNUNGAN ARFAK",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "9101",
+    "name": "KAB. FAK FAK",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "9102",
+    "name": "KAB. KAIMANA",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "9103",
+    "name": "KAB. TELUK WONDAMA",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "9104",
+    "name": "KAB. TELUK BINTUNI",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "9105",
+    "name": "KAB. MANOKWARI",
+    "provinsiCode": "91",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "9271",
+    "name": "KOTA SORONG",
+    "provinsiCode": "92",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "9201",
+    "name": "KAB. RAJA AMPAT",
+    "provinsiCode": "92",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "9202",
+    "name": "KAB. SORONG",
+    "provinsiCode": "92",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "9203",
+    "name": "KAB. SORONG SELATAN",
+    "provinsiCode": "92",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "9204",
+    "name": "KAB. MAYBRAT",
+    "provinsiCode": "92",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "9205",
+    "name": "KAB. TAMBRAUW",
+    "provinsiCode": "92",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "19",
+    "fullCode": "9419",
+    "name": "KAB. SARMI",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "20",
+    "fullCode": "9420",
+    "name": "KAB. KEEROM",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "26",
+    "fullCode": "9426",
+    "name": "KAB. WAROPEN",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "27",
+    "fullCode": "9427",
+    "name": "KAB. SUPIORI",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "28",
+    "fullCode": "9428",
+    "name": "KAB. MAMBERAMO RAYA",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "71",
+    "fullCode": "9471",
+    "name": "KOTA JAYAPURA",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "9403",
+    "name": "KAB. JAYAPURA",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "9408",
+    "name": "KAB. KEPULAUAN YAPEN",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "09",
+    "fullCode": "9409",
+    "name": "KAB. BIAK NUMFOR",
+    "provinsiCode": "94",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "9501",
+    "name": "KAB. MERAUKE",
+    "provinsiCode": "95",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "9502",
+    "name": "KAB. BOVEN DIGOEL",
+    "provinsiCode": "95",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "9503",
+    "name": "KAB. MAPPI",
+    "provinsiCode": "95",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "9504",
+    "name": "KAB. ASMAT",
+    "provinsiCode": "95",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "9601",
+    "name": "KAB. MIMIKA",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "9602",
+    "name": "KAB. DOGIYAI",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "9603",
+    "name": "KAB. DEIYAI",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "9604",
+    "name": "KAB. NABIRE",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "9605",
+    "name": "KAB. PANIAI",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "9606",
+    "name": "KAB. INTAN JAYA",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "9607",
+    "name": "KAB. PUNCAK",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "9608",
+    "name": "KAB. PUNCAK JAYA",
+    "provinsiCode": "96",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "01",
+    "fullCode": "9701",
+    "name": "KAB. NDUGA",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "02",
+    "fullCode": "9702",
+    "name": "KAB. JAYAWIJAYA",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "03",
+    "fullCode": "9703",
+    "name": "KAB. LANNY JAYA",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "04",
+    "fullCode": "9704",
+    "name": "KAB. TOLIKARA",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "05",
+    "fullCode": "9705",
+    "name": "KAB. MAMBERAMO TENGAH",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "06",
+    "fullCode": "9706",
+    "name": "KAB. YALIMO",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "07",
+    "fullCode": "9707",
+    "name": "KAB. YAHUKIMO",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  },
+  {
+    "type": "kabupaten_kota",
+    "code": "08",
+    "fullCode": "9708",
+    "name": "KAB. PEGUNUNGAN BINTANG",
+    "provinsiCode": "97",
+    "createdAt": "2025-07-25T16:03:16.351Z",
+    "updatedAt": "2025-07-25T16:03:16.351Z"
+  }
+]
